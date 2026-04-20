@@ -1,0 +1,4 @@
+/app         /200.html  200
+/app/*       /200.html  200
+/share       /200.html  200
+/share/*     /200.html  200
